@@ -1,0 +1,5 @@
+{
+  "name": "My updated project",
+  "description_html": "<p>This is my <em>updated project</em> with some books</p>",
+  "books": [5,1,3]
+}

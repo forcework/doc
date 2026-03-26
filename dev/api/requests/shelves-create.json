@@ -1,0 +1,8 @@
+{
+  "name": "My project",
+  "description_html": "<p>This is <strong>my project</strong> with some books</p>",
+  "books": [5,1,3],
+  "tags": [
+    {"name": "Category", "value": "Learning"}
+  ]
+}
